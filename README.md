@@ -34,6 +34,9 @@ El objetivo de este repositorio es proporcionar ejercicios bien estructurados pa
 - **TablasDeMultiplicar:** Crea tablas de multiplicar de forma dinámica ⭐⭐⭐⭐
 - **AdivinaElNumero:** Adivina el numero ⭐⭐
 - **Ahorros:** Crea un programa para llevar la contabilidad de un usuario ⭐⭐⭐
+- **BuscandoPalidromos:** Encuentra palindromos en un array ⭐⭐⭐⭐
+- **SumaDigitosPares:** Suma los números enteros positivos del un array ⭐⭐⭐
+- **NumerosPrimos:** Busca los numeros primos entre el 9 y el 9999 ⭐⭐⭐⭐
 
 ## 🚀 Cómo Empezar
 
