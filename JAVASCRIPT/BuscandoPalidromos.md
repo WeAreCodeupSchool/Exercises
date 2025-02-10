@@ -3,16 +3,16 @@
 ## Descripción  
 Escribe programa en JavaScript que encuentre palindromos en el siguiente array 
 [
-  "reconocer",  // Palíndromo
-  "oso",        // Palíndromo
-  "radar",      // Palíndromo
-  "ana",        // Palíndromo
-  "sol",        // No es palíndromo
-  "casa",       // No es palíndromo
-  "nivel",      // Palíndromo
-  "perro",      // No es palíndromo
-  "rotor",      // Palíndromo
-  "computadora" // No es palíndromo
+  "reconocer",
+  "oso",
+  "radar",
+  "ana",
+  "sol", 
+  "casa",
+  "nivel",
+  "perro",
+  "rotor",
+  "computadora"
 ];
 
 Debe encontrar y devolver un array con todos los **palíndromos** en ese array.  
